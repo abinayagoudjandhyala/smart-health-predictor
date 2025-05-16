@@ -4,7 +4,7 @@ This web application uses machine learning models to predict the likelihood of *
 
 ---
 
-## 🚀 Demo
+## 🚀 Try it here 👉 [smart-health-predictor.streamlit.app](https://smart-health-predictor.streamlit.app/)
 
 To run the app locally:
 
